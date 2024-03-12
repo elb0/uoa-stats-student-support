@@ -1,11 +1,74 @@
 ---
-title: "UoA-stats-student-support"
+title: "Mental health concerns & other student support"
+subtitle: "An unofficial guide I made for myself and any keen Waiapapa Taumatau Rau colleagues"
+author: "Maintained irregularly by Liza Bolton, liza.bolton@auckland.ac.nz"
+date: "Last updated 2024-03-13"
+format: 
+  html: 
+    toc: true
+    toc-expand: 2
 ---
 
-## Quarto
+::: callout-caution
+Mental health discussed. Staff members can contact the [Employee Assistance Programme](#0 "https://www.staff.auckland.ac.nz/en/human-resources/staff-support-services/employee-assistance-programme.html") for individual support.
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+This is not an official Waipapa Taumata Rau University of Auckland resource.
+:::
 
-```{r}
-1 + 1
-```
+# Emergency
+
+[**If it is an emergency call 111.**]{style="color:red;"} You can then call Campus Security as well on 0800 373 7550 or 966 (internal).
+
+If you do not have enough information to call 111 (i.e., the student is not with you, you do not know where they are), Campus Security can call the listed emergency contact for a student, but be careful about this if it risks putting the student in a more difficult position. For example, if you are somewhat concerned about an email or Piazza/Ed Discussion post that indicates the student is very upset and they say something like "I just want to die" --- having their parents called when they were letting off steam, albeit doing so inappropriately, could make things a lot worse for them.
+
+For the most updated central University emergency contact information: [Contacts and information sources](https://www.auckland.ac.nz/en/about-us/emergency-information/contact-numbers.html).
+
+::: callout-tip
+📱 To do: Save Auckland University Security --- 0800 373 7550 --- in your phone.
+
+💡 Adding it to your Contact Favourites and/or having it start with 'A' will put it near the top for easy access.
+:::
+
+## Discussion boards
+
+If the concern you're dealing with is based on a post on Piazza/Ed Discussion or another discussion board you manage, and is currently public, please make the post private to instructors.
+
+-   [How to change visibility of a post on Piazza](https://support.piazza.com/support/solutions/articles/48000986466-instructors-change-the-audience-of-a-private-post)
+
+-   [How to Make Private on Ed Discussion  (three dots menu -\> Make Private)](https://edstem.org/au/help/tips-and-tricks#moderation-tools)
+
+# Main go-to: Te Papa Manaki \| Campus Care
+
+[Link](https://www.auckland.ac.nz/en/students/student-support/personal-support/te-papa-manaaki-campus-care.html?_ga=2.180790372.232695089.1686091452-605446100.1683666903)
+
+What will often be the best option if you are concerned about a student during business hours (but the situation does not appear to warrant a 111 call) is to reach out to the Campus Care team. They can handle acute concerns (e.g., a student indicates a desire to self-harm on Piazza or via email), as well as less time-sensitive referrals for issues around: 
+
+-   Mental health concerns and support planning
+
+-   Family violence and other safety issues
+
+-   Anxiety and distress issues impacting study  
+
+-   Financial concerns and stress 
+
+-   Stress related to caring responsibilities    
+
+-   Bullying, harassment & discrimination
+
+-   Sexual harm, including sexual harassment and assault 
+
+-   For those facing an exceptional circumstance outside of their control, one of the team can work out a support plan with you looking at academic and other needs.
+
+## For less acute situations
+
+You can encourage students to reach out the [student advisers](https://www.auckland.ac.nz/en/science/current-students/student-support/advisers-support.html) and/or make a referral, with the student\'s permission. There is **an advisor for Stats and (at time of writing) a separate advisor for Data Science**. **Lizzie Tafili is the adviser for Māori and Pacific** students (from experience, she is awesome to work with!).
+
+::: callout-tip
+Provide students with a link to the [\'Getting support\'](https://www.auckland.ac.nz/en/students/student-support/personal-support/be-well/getting-support.html) hub, or having it linked prominently in your slides/course, 
+:::
+
+## Making a referral - sample language (non-emergency)
+
+![](img/refer.png){fig-align="center"}
+
+Source: From the Building Connections training (2023-07-13)
