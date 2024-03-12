@@ -1,0 +1,20 @@
+{
+  "hash": "bfb3a42cc6a6e237e07a8d33f429b3e3",
+  "result": {
+    "markdown": "---\ntitle: \"Mental health and student support resources\"\nauthor: \"Liza Bolton\"\ntitle-slide-attributes:\n  data-background-image: \"title_image.png\"\n  data-background-opacity: \"0.4\"\nformat:\n  revealjs:\n    theme: theme.scss\n    transition: fade\n    width: 1600\n    height: 900\n    background-transition: fade\n    highlight-style: ayu-mirage\n    slide-number: c/t\n    auto-stretch: false\n    code-fold: true\n    code-summary: \"Show the code\"\ncode-link: true\nexecute:\n  echo: true\n  freeze: auto\neditor: \n  markdown: \n    wrap: 72\n---\n\n\n# Do you have Campus Security saved in your phone? 🍫\n\n# Resource document\n\n[**https://lizabolton.github.io/uoa-stats-student-support/**](https://lizabolton.github.io/uoa-stats-student-support/)\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](2024-03-14_dept-meeting_files/figure-revealjs/unnamed-chunk-1-1.png){width=960}\n:::\n:::\n",
+    "supporting": [
+      "2024-03-14_dept-meeting_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-after-body": [
+        "\n<script>\n  // htmlwidgets need to know to resize themselves when slides are shown/hidden.\n  // Fire the \"slideenter\" event (handled by htmlwidgets.js) when the current\n  // slide changes (different for each slide format).\n  (function () {\n    // dispatch for htmlwidgets\n    function fireSlideEnter() {\n      const event = window.document.createEvent(\"Event\");\n      event.initEvent(\"slideenter\", true, true);\n      window.document.dispatchEvent(event);\n    }\n\n    function fireSlideChanged(previousSlide, currentSlide) {\n      fireSlideEnter();\n\n      // dispatch for shiny\n      if (window.jQuery) {\n        if (previousSlide) {\n          window.jQuery(previousSlide).trigger(\"hidden\");\n        }\n        if (currentSlide) {\n          window.jQuery(currentSlide).trigger(\"shown\");\n        }\n      }\n    }\n\n    // hookup for slidy\n    if (window.w3c_slidy) {\n      window.w3c_slidy.add_observer(function (slide_num) {\n        // slide_num starts at position 1\n        fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);\n      });\n    }\n\n  })();\n</script>\n\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

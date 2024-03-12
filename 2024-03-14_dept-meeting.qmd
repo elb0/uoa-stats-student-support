@@ -1,0 +1,36 @@
+---
+title: "Mental health and student support resources"
+author: "Liza Bolton"
+title-slide-attributes:
+  data-background-image: "title_image.png"
+  data-background-opacity: "0.4"
+format:
+  revealjs:
+    theme: theme.scss
+    transition: fade
+    width: 1600
+    height: 900
+    background-transition: fade
+    highlight-style: ayu-mirage
+    slide-number: c/t
+    auto-stretch: false
+    code-fold: true
+    code-summary: "Show the code"
+code-link: true
+execute:
+  echo: true
+  freeze: auto
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Do you have Campus Security saved in your phone? 🍫
+
+# Resource document
+
+[**https://lizabolton.github.io/uoa-stats-student-support/**](https://lizabolton.github.io/uoa-stats-student-support/)
+
+```{r, echo=F}
+plot(qrcode::qr_code("https://lizabolton.github.io/uoa-stats-student-support/"))
+```
