@@ -38,7 +38,7 @@ If the concern you're dealing with is based on a post on Piazza/Ed Discussion or
 
 -   [How to Make Private on Ed Discussion  (three dots menu -\> Make Private)](https://edstem.org/au/help/tips-and-tricks#moderation-tools)
 
-# Referring students: 
+# Referring students:
 
 ## Main go-to: Te Papa Manaki \| Campus Care
 
@@ -62,6 +62,12 @@ What will often be the best option if you are concerned about a student during b
 
 -   For those facing an exceptional circumstance outside of their control, one of the team can work out a support plan with you looking at academic and other needs.
 
+## In-person: Counselling service
+
+If you are present with a student in distress on campus you can go together to the [University Health and Counselling Service](https://www.auckland.ac.nz/en/students/student-support/personal-support/student-health-counselling.html) in Kate Edger (opening hours [here](https://www.auckland.ac.nz/en/students/student-support/personal-support/student-health-counselling/contact-university-health-counselling-service.html), usually *at least* 8:30 to 4PM, Monday to Friday, semester breaks may be different) and ask for a counsellor ASAP. You may have to wait with the student for a little but, but this enables you to keep them safe while also moving the responsibility to a trained helper.
+
+*Thank you to Charlotte Jones-Todd for this info!*
+
 ## For less acute situations
 
 You can encourage students to reach out the [student advisers](https://www.auckland.ac.nz/en/science/current-students/student-support/advisers-support.html) and/or make a referral, with the student's permission. There is **an advisor for Stats and (at time of writing) a separate advisor for Data Science**. **Lizzie Tafili is the adviser for Māori and Pacific** students (from experience, she is awesome to work with!).
@@ -78,7 +84,7 @@ Source: From the [Building Connections --- Our role in supporting student wellbe
 
 ## Other services
 
-#### Te Whatu Ora Health New Zealand** [🔗 Where to get help for mental health](https://info.health.nz/services-support/mental-health-services/where-to-get-help/)**
+#### Te Whatu Ora Health New Zealand\*\* [🔗 Where to get help for mental health](https://info.health.nz/services-support/mental-health-services/where-to-get-help/)\*\*
 
 There are a range of digital tools and resources on this page as well as helpline information, mental health services and suicide prevention.
 
@@ -89,6 +95,22 @@ There are a range of digital tools and resources on this page as well as helplin
 -   Ministry of Justice Victims Information: [www.victimsinfo.govt.nz](http://www.victimsinfo.govt.nz)  for info for victims/survivors, and their support people, about reporting, investigations and the court process.
 
 [Bullying, harassment and discrimination policy and procedures](https://www.auckland.ac.nz/en/about-us/about-the-university/policy-hub/people-culture/employer-employee-responsibilities/addressing-bullying-harassment-discrimination-policy.html) (UoA)
+
+### **Counselling Support Services**
+
+From the [University Health and Counselling website](https://www.auckland.ac.nz/en/students/student-support/personal-support/student-health-counselling/contact-university-health-counselling-service.html), check there for the most update to date info.
+
+For additional support, there are a range of options both within and external to the University that can be accessed:
+
+-   For immediate assistance via text or phone, contact [1737](https://1737.org.nz/?gclid=EAIaIQobChMI1YWygb7M4wIV0oBwCh3ZDQj-EAAYASAAEgLdBvD_BwE), a free 24/7 counselling service
+
+-   For immediate assistance via chat or phone, contact [Safe to Talk](https://www.safetotalk.nz/?gclid=EAIaIQobChMI4ZTD3L3M4wIVhIRwCh31_AtfEAAYASAAEgJSnvD_BwE), a free 24/7 help service specialising in sexual harm
+
+-   For assistance with online bullying, harassment and discrimination call [Netsafe](https://www.netsafe.org.nz/) on 0508 638 723
+
+-   Students in University Accommodation, can contact Resident Advisor or Managers on site.
+
+-   The University also provides access to phone counselling 7 days a week between the hours of 9am-9pm, via [Puawaitanga](https://www.puawaitanga.nz/)
 
 # Self-serve: Whai Ora Be Well
 
@@ -202,7 +224,7 @@ These may be redundant with the new Canvas Baseline Practices. Please consider i
 <hr />
 ```
 
-### Add Campus Care to the Course Navigation Menu 
+### Add Campus Care to the Course Navigation Menu
 
 ![](img/show-nav-side.png){fig-alt="Screenshot of left-hand course navigation menu with a Campus Care link" fig-align="center"}
 
@@ -214,8 +236,8 @@ Go to Settings -\> Apps in your course and select the redirect tool (look for th
 
 ![](img/redirect.png){fig-alt="Screenshot of redirect tool text from Canvas" fig-align="center"}
 
-Make sure you select \'Show in Course Navigation\' for it to appear in the course menu for students.
+Make sure you select 'Show in Course Navigation' for it to appear in the course menu for students.
 
 ![](img/add-app.png){fig-alt="Screenshot of Add App Canvas interface" fig-align="center"}
 
-Note: Unfortunately you can\'t edit these after you make them. To correct a mistake, remove the link in the Navigation tab and start again. You can also change the location of the link in the course navigation menu here, after you save and refresh.
+Note: Unfortunately you can't edit these after you make them. To correct a mistake, remove the link in the Navigation tab and start again. You can also change the location of the link in the course navigation menu here, after you save and refresh.
