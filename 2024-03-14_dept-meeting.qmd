@@ -31,7 +31,7 @@ editor:
 
 ![EdwardTufte.com via Vox [*11 amazing pie charts, in honor of Pi
 Day*](https://www.vox.com/2015/3/14/8207747/pi-day-pie-charts)](https://cdn.vox-cdn.com/thumbor/FleleGKU1qjHUBEmz1sAIoy9tV8=/0x0:500x330/920x0/filters:focal(0x0:500x330):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3500550/0003VL-9150.0.jpeg){fig-alt="Photo of partially eaten pie (pumpkin?) wiht a legend showing pie I have either as the silvery pie plate as \"Pie I have eaten\" and the yellowy colour of the filling as \"Pie I have not yet eaten\""
-fig-align="center" width="80%"}
+fig-align="center" width="70%"}
 
 # Do you have Campus Security saved in your phone? 🍫
 
@@ -109,7 +109,7 @@ This is a great portal for general information for your students, especially abo
 
 # More links and resources
 
-[🔗 Here is the document version of these slides](https://lizabolton.github.io/uoa-stats-student-support/) with more resources for specific cases (like sexual harm) and some examples of other ways to share these resources, from Canvas to your email signature.
+[🔗  Here is the document version of these slides](https://lizabolton.github.io/uoa-stats-student-support/) with more resources for specific cases (like sexual harm) and some examples of other ways to share these resources, from Canvas to your email signature.
 
 
 # Noho ora mai rā, look after yourself
