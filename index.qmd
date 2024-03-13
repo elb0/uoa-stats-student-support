@@ -1,12 +1,13 @@
 ---
 title: "Mental health concerns & other student support"
-subtitle: "An unofficial guide I made for myself and any keen Waiapapa Taumatau Rau colleagues"
+subtitle: "An unofficial guide I made for myself and any keen Waipapa Taumatau Rau folks"
 author: "Maintained irregularly by Liza Bolton, liza.bolton@auckland.ac.nz"
 date: "Last updated 2024-03-13"
 format: 
   html: 
     toc: true
     toc-expand: 2
+    theme: yeti
 ---
 
 ::: callout-caution
@@ -37,7 +38,9 @@ If the concern you're dealing with is based on a post on Piazza/Ed Discussion or
 
 -   [How to Make Private on Ed Discussion  (three dots menu -\> Make Private)](https://edstem.org/au/help/tips-and-tricks#moderation-tools)
 
-# Main go-to: Te Papa Manaki \| Campus Care
+# Referring students: 
+
+## Main go-to: Te Papa Manaki \| Campus Care
 
 [Link](https://www.auckland.ac.nz/en/students/student-support/personal-support/te-papa-manaaki-campus-care.html?_ga=2.180790372.232695089.1686091452-605446100.1683666903)
 
@@ -71,11 +74,15 @@ Provide students with a link to the ['Getting support'](https://www.auckland.ac.
 
 [![](img/refer.png){fig-alt="Screenshot from the refer component of the training described later in the document. Several speech bubbles around the topic sentence: \"What does referring tauira to support services sound like?\"" fig-align="center"}](https://uoa.csod.com/ui/lms-learning-details/app/course/3392b03e-bf8a-441e-b38f-28448f7cecad)
 
-Source: From the Building Connections training (2023-07-13)
+Source: From the [Building Connections --- Our role in supporting student wellbeing and safety training](https://uoa.csod.com/ui/lms-learning-details/app/course/3392b03e-bf8a-441e-b38f-28448f7cecad?isCompletionRedirect=true&loStatus=16&regnum=1&loId=3392b03e-bf8a-441e-b38f-28448f7cecad) (2023-07-13)
 
 ## Other services
 
-Sexual harm
+#### Te Whatu Ora Health New Zealand** [🔗 Where to get help for mental health](https://info.health.nz/services-support/mental-health-services/where-to-get-help/)**
+
+There are a range of digital tools and resources on this page as well as helpline information, mental health services and suicide prevention.
+
+#### Sexual harm
 
 -   Safe to Talk: <http://www.safetotalk.nz/>
 
@@ -83,7 +90,39 @@ Sexual harm
 
 [Bullying, harassment and discrimination policy and procedures](https://www.auckland.ac.nz/en/about-us/about-the-university/policy-hub/people-culture/employer-employee-responsibilities/addressing-bullying-harassment-discrimination-policy.html) (UoA)
 
-# Training options
+# Self-serve: Whai Ora Be Well
+
+*"Be Well offers a range of tools and information to help you care for your physical, emotional and spiritual wellbeing, so you can thrive."*
+
+This is a great portal for general information for your students, especially about ways for them to improve their skills/knowledge/wellness etc. outside times of acute distress or struggle.
+
+## Te Whare Tapa Whā \| The Four Pillars of Health
+
+Whai Ora Be Well considers Te Whare Tapa Whā, the Four Pillars of Health to be:
+
+-   Taha hinengaro \| emotional wellbeing
+
+-   Taha tinanga \| physical wellbeing
+
+-   Taha wairua \| spirutual wellbeing
+
+-   taha whānau \| community and social wellbeing
+
+Some of the workshops/information they offer:
+
+-   Financials wellbeing
+
+-   Sleep
+
+-   Health relationships
+
+-   Sexual health
+
+-   Consent
+
+-   Summer safety
+
+# Training options (staff)
 
 Want to feel a bit more confident about handling wellbeing situations with students? I'd really recommend the [Building Connections --- Our role in supporting student wellbeing and safety](https://uoa.csod.com/ui/lms-learning-details/app/course/3392b03e-bf8a-441e-b38f-28448f7cecad?isCompletionRedirect=true&loStatus=16&regnum=1&loId=3392b03e-bf8a-441e-b38f-28448f7cecad) training available to all staff. It is tailored to UoA, and while some if it will seem obvious or straightforward, there are also lots of great reminders, resource overviews and tips. Takes \~30 minutes, self-paced.
 
@@ -117,7 +156,7 @@ Add this to your Canvas page, an announcement, etc.
 
 ![](img/do-you-need-help.jpeg){fig-alt="Summary of Be Well | Whai Ora and associated offerings" fig-align="center"}
 
-Download the PDF version here.
+[Download the PDF version here.](https://github.com/lizabolton/uoa-stats-student-support/blob/main/pdf/2023-be-well-summary.pdf)
 
 ## Email signature options
 

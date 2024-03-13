@@ -1,5 +1,7 @@
 ---
 title: "Mental health and student support resources"
+subtitle: "Department of Statistics Meeting"
+date: 2024-03-14
 author: "Liza Bolton"
 title-slide-attributes:
   data-background-image: "title_image.png"
@@ -25,12 +27,94 @@ editor:
     wrap: 72
 ---
 
+# Happy 𝝅 Day!
+
+![EdwardTufte.com via Vox [*11 amazing pie charts, in honor of Pi
+Day*](https://www.vox.com/2015/3/14/8207747/pi-day-pie-charts)](https://cdn.vox-cdn.com/thumbor/FleleGKU1qjHUBEmz1sAIoy9tV8=/0x0:500x330/920x0/filters:focal(0x0:500x330):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3500550/0003VL-9150.0.jpeg){fig-alt="Photo of partially eaten pie (pumpkin?) wiht a legend showing pie I have either as the silvery pie plate as \"Pie I have eaten\" and the yellowy colour of the filling as \"Pie I have not yet eaten\""
+fig-align="center" width="80%"}
+
 # Do you have Campus Security saved in your phone? 🍫
 
-# Resource document
+------------------------------------------------------------------------
 
-[**https://lizabolton.github.io/uoa-stats-student-support/**](https://lizabolton.github.io/uoa-stats-student-support/)
+## **📲 0800 373 7550 or 966 (internal)**
 
-```{r, echo=F}
-plot(qrcode::qr_code("https://lizabolton.github.io/uoa-stats-student-support/"))
+<br>
+
+Get my slides and resources:
+
+[**link.lizabolton.com**](https://link.lizabolton.com/)
+
+```{r, echo=F, eval = F}
+png("img/qrcode_links.png")
+plot(qrcode::qr_code("https://link.lizabolton.com/"))
+dev.off()
 ```
+
+![](img/qrcode_links.png){fig-alt="QR code for link.lizabolton.com"
+fig-align="center" width="600"}
+
+------------------------------------------------------------------------
+
+![](img/email-resources.png){fig-alt="Screenshot of portion of email with links to support resources"
+fig-align="center" width="80%"}
+
+# In an emergency
+
+[**If it is an emergency call 111.**]{style="color:red;"} You can then call Campus Security as well on 0800 373 7550 or 966 (internal).
+
+# It ... might? ... be an emergency?
+
+If you do not have enough information to call 111 (i.e., the student is not with you, you do not know where they are), Campus Security can call the listed emergency contact for a student.
+
+Be careful about this if it risks putting the student in a more difficult position. 
+
+For example, if you are somewhat concerned about an email or Piazza/Ed Discussion post that indicates the student is very upset and they say something like "I just want to die" --- having their parents called when they were letting off steam, albeit doing so inappropriately, could make things a lot worse for them.
+
+::: callout-tip
+Make sure you know how to make posts private on the discussion board you use. [Instructions in my doc.](https://lizabolton.github.io/uoa-stats-student-support/#discussion-boards)
+:::
+
+# Te Papa Manaki | Campus Care
+
+[Campus Care](https://www.auckland.ac.nz/en/students/student-support/personal-support/te-papa-manaaki-campus-care.html?_ga=2.180790372.232695089.1686091452-605446100.1683666903) will often be the best option if you are concerned about a student during business hours, but the situation does not appear to warrant a 111 call. They can handle acute concerns (e.g., a student indicates a desire to self-harm on Piazza or via email), as well as less time-sensitive referrals.
+
+# Student advisers
+
+For less acute situations, you can encourage students to reach out the [student advisers](https://www.auckland.ac.nz/en/science/current-students/student-support/advisers-support.html) and/or make a referral, with the student's permission. There is **an adviser for Stats and (at time of writing) a separate adviser for Data Science**. **Lizzie Tafili is the adviser for Māori and Pacific** students (from experience, she is awesome to work with!).
+
+::: callout-tip
+Provide students with a link to the ['Getting support'](https://www.auckland.ac.nz/en/students/student-support/personal-support/be-well/getting-support.html) hub, or having it linked prominently in your slides/course, 
+:::
+
+# How to refer a student?
+
+[![](img/refer.png){fig-alt="Screenshot from the refer component of the training described later in the document. Several speech bubbles around the topic sentence: \"What does referring tauira to support services sound like?\"" fig-align="center"}](https://uoa.csod.com/ui/lms-learning-details/app/course/3392b03e-bf8a-441e-b38f-28448f7cecad)
+
+Source: From the [Building Connections --- Our role in supporting student wellbeing and safety training](https://uoa.csod.com/ui/lms-learning-details/app/course/3392b03e-bf8a-441e-b38f-28448f7cecad?isCompletionRedirect=true&loStatus=16&regnum=1&loId=3392b03e-bf8a-441e-b38f-28448f7cecad) (2023-07-13)
+
+# Whai Ora | Be Well
+
+[🔗 Link](https://www.auckland.ac.nz/en/students/student-support/personal-support/be-well.html)
+
+*"Be Well offers a range of tools and information to help you care for your physical, emotional and spiritual wellbeing, so you can thrive."*
+
+This is a great portal for general information for your students, especially about ways for them to improve their skills/knowledge/wellness etc. outside times of acute distress or struggle.
+
+# Helping students navigate systems
+
+![](img/do-you-need-help.jpeg){fig-alt="Summary of Be Well | Whai Ora and associated offerings" fig-align="center"}
+
+[Download the PDF version here.](https://github.com/lizabolton/uoa-stats-student-support/blob/main/pdf/2023-be-well-summary.pdf)
+
+# More links and resources
+
+[🔗 Here is the document version of these slides](https://lizabolton.github.io/uoa-stats-student-support/) with more resources for specific cases (like sexual harm) and some examples of other ways to share these resources, from Canvas to your email signature.
+
+
+# Noho ora mai rā, look after yourself
+
+---
+![Source: Boing Boing via Vox [*11 amazing pie charts, in honor of Pi
+Day*](https://www.vox.com/2015/3/14/8207747/pi-day-pie-charts)](https://cdn.vox-cdn.com/thumbor/SuqneFL-PE3bSMbMQnby2-2d7X4=/0x0:400x254/920x0/filters:focal(0x0:400x254):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3500620/00pacman.0.jpg){fig-alt="A pie chart titled 'percentage of chart which resembles pac-man\" and has a yellow area (resembles pacman) and a pink area (does not resemble pac man)"
+fig-align="center" width="80%"}
