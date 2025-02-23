@@ -2,7 +2,7 @@
 title: "Mental health concerns & other student support"
 subtitle: "An unofficial guide I made for myself and any keen Waipapa Taumatau Rau folks"
 author: "Maintained irregularly by Liza Bolton, liza.bolton@auckland.ac.nz"
-date: "Last updated 2024-03-13"
+date: "Last updated 2025-02-24"
 format: 
   html: 
     toc: true
@@ -32,9 +32,7 @@ For the most updated central University emergency contact information: [Contacts
 
 ## Discussion boards
 
-If the concern you're dealing with is based on a post on Piazza/Ed Discussion or another discussion board you manage, and is currently public, please make the post private to instructors.
-
--   [How to change visibility of a post on Piazza](https://support.piazza.com/support/solutions/articles/48000986466-instructors-change-the-audience-of-a-private-post)
+If the concern you're dealing with is based on a post on Ed Discussion or another discussion board you manage, and is currently public, please make the post private to instructors.
 
 -   [How to Make Private on Ed Discussion  (three dots menu -\> Make Private)](https://edstem.org/au/help/tips-and-tricks#moderation-tools)
 
@@ -44,7 +42,7 @@ If the concern you're dealing with is based on a post on Piazza/Ed Discussion or
 
 [Link](https://www.auckland.ac.nz/en/students/student-support/personal-support/te-papa-manaaki-campus-care.html?_ga=2.180790372.232695089.1686091452-605446100.1683666903)
 
-What will often be the best option if you are concerned about a student during business hours (but the situation does not appear to warrant a 111 call) is to reach out to the Campus Care team. They can handle acute concerns (e.g., a student indicates a desire to self-harm on Piazza or via email), as well as less time-sensitive referrals for issues around: 
+What will often be the best option if you are concerned about a student during business hours (but the situation does not appear to warrant a 111 call) is to reach out to the Campus Care team. They can handle acute concerns (e.g., a student indicates a desire to self-harm in a discussion post or via email), as well as less time-sensitive referrals for issues around: 
 
 -   Mental health concerns and support planning
 
@@ -68,9 +66,29 @@ If you are present with a student in distress on campus you can go together to t
 
 *Thank you to Charlotte Jones-Todd for this info!*
 
-## For less acute situations
+## Phone counselling (free for students)
 
-You can encourage students to reach out the [student advisers](https://www.auckland.ac.nz/en/science/current-students/student-support/advisers-support.html) and/or make a referral, with the student's permission. There is **an advisor for Stats and (at time of writing) a separate advisor for Data Science**. **Lizzie Tafili is the adviser for Māori and Pacific** students (from experience, she is awesome to work with!).
+*Online support available seven days a week, 9am-9pm.*
+
+*Get support with feelings of anxiety, low mood, relationships, grief, addictions, low self-esteem or low confidence.*
+
+-   *A phone and online support service to help strengthen your wellbeing.*
+
+-   *Counselling sessions are held over the phone and use a web-based program.*
+
+-   *The service is independent, confidential and free.*
+
+*To enrol, call 0800 782 999 or click the link below.*
+
+*Please note: you will be asked for your student ID number to confirm you are an enrolled student.*
+
+[Enrol with Puāwaitanga](https://puawaitanga.nz/ "Enrol with Puāwaitanga ")
+
+## For less acute situations & general pastoral care
+
+You can encourage students to reach out the [student advisers](https://www.auckland.ac.nz/en/science/current-students/student-support/advisers-support.html) to book an appointment and/or make a referral, with the student's permission.
+
+Writing as of Feb 2025, the adviser website has changed and no longer shows the advisers for each subject and identity and instead there is a general inbox to reach out to. Unfortunately, this team has lost some members (including the amazing Emma who some of you will have met at a 2024 department meeting) and is now a bit short-staffed.
 
 ::: callout-tip
 Provide students with a link to the ['Getting support'](https://www.auckland.ac.nz/en/students/student-support/personal-support/be-well/getting-support.html) hub, or having it linked prominently in your slides/course, 
@@ -84,7 +102,9 @@ Source: From the [Building Connections --- Our role in supporting student wellbe
 
 ## Other services
 
-#### Te Whatu Ora Health New Zealand\*\* [🔗 Where to get help for mental health](https://info.health.nz/services-support/mental-health-services/where-to-get-help/)\*\*
+#### Te Whatu Ora Health New Zealand 
+
+[🔗 Where to get help for mental health](https://info.health.nz/services-support/mental-health-services/where-to-get-help/)
 
 There are a range of digital tools and resources on this page as well as helpline information, mental health services and suicide prevention.
 
@@ -143,6 +163,8 @@ Some of the workshops/information they offer:
 -   Consent
 
 -   Summer safety
+
+### Science Student Experience Hub
 
 # Training options (staff)
 
