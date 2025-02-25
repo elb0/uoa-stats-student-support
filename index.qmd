@@ -164,11 +164,11 @@ Some of the workshops/information they offer:
 
 -   Summer safety
 
-### Science Student Experience Hub
+# Self-serve: Science Student Experience Hub
 
-This hub is linked in the Faculty of Science Canvas Baseline practices template under the Pātaitai \| Help & Support heading. It has some helpful links for students.
+This hub is linked in the Faculty of Science Canvas Baseline practices template under the Pātaitai \| Help & Support heading. It has some helpful links for students. (Note: At time of writing it says 2024 academic year, but this will likely be rolled over.)
 
-https://canvas.auckland.ac.nz/courses/114198
+[https://canvas.auckland.ac.nz/courses/114198](https://canvas.auckland.ac.nz/courses/114198https://canvas.auckland.ac.nz/courses/114198)
 
 # Training options (staff)
 
