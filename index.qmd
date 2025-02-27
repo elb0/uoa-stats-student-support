@@ -202,9 +202,9 @@ Want to feel a bit more confident about handling wellbeing situations with stude
 
 Add this to your Canvas page, an announcement, etc.
 
-![](img/do-you-need-help.jpeg){fig-alt="Summary of Be Well | Whai Ora and associated offerings" fig-align="center"}
+![](img/2025-02_wellbeing-resources.png){fig-alt="Summary of Be Well | Whai Ora and associated offerings" fig-align="center"}
 
-[Download the PDF version here.](https://github.com/lizabolton/uoa-stats-student-support/blob/main/pdf/2023-be-well-summary.pdf)
+[Download the PDF version here.](https://github.com/lizabolton/uoa-stats-student-support/blob/main/pdf/2025-02_wellbeing-resources.pdf)
 
 ## Email signature options
 
